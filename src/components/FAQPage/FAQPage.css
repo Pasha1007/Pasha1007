@@ -1,0 +1,102 @@
+#askanswer {
+    text-transform: uppercase;
+    width: 100%;
+    margin: 7% 0px 11% 5%;
+    font-family: 'Montserrat', sans-serif !important;
+
+}
+
+.question_button {
+    border-radius: 30px;
+    background: transparent;
+    cursor: pointer;
+    margin-top: 5%;
+    margin-left: 5%;
+
+    height: 75px;
+    width: 70%;
+
+}
+
+.answer {
+    width: 95%;
+    background-color: bisque;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    transition: height 0.3s ease-out, opacity 0.3s ease-out;
+
+}
+
+
+
+.question_container {
+    /* margin-top: 5%;
+    margin-left: 5%; */
+    /* background: linear-gradient(#fff, #fff) padding-box,
+        linear-gradient(180deg, rgb(209, 255, 186), #FCD0BB) border-box; */
+
+    /* height: 75px;
+    width: 70%; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.question_button:hover {
+    background-color: rgb(212, 212, 212);
+
+}
+
+.question_button.active {
+    background: rgb(253, 210, 188);
+    background: linear-gradient(0deg, rgba(253, 210, 188, 1) 0%, rgba(255, 254, 196, 1) 100%);
+
+}
+
+.arrow {
+    border: solid black;
+    border-width: 0 5px 5px 0;
+    display: inline-block;
+    padding: 8px;
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    margin-top: 22px;
+}
+
+.quest_img {
+    width: 40px;
+    margin: 15px;
+}
+
+.quest_text {
+    font-size: 12px;
+    font-weight: 600;
+    width: 88%;
+    transition: height 0.3s ease-out, opacity 0.3s ease-out;
+
+}
+
+.answ_block {
+    margin-top: 190%;
+    margin-left: -170px;
+    height: 60%;
+    width: 560px;
+    background-color: rgb(239, 255, 216);
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
+}
+
+.asd {
+    height: 2px;
+    width: 650px;
+    background-color: rgb(176, 176, 176);
+    margin: 80px 0 0 -250px;
+    position: absolute;
+}

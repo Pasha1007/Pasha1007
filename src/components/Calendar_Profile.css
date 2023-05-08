@@ -1,0 +1,161 @@
+#calprof {
+  margin-left: -545px !important;
+  margin-top: 70px !important;
+  font-family: 'Montserrat', sans-serif !important;
+}
+
+#prcl {
+  width: 600px !important;
+}
+
+.calendar_profile {
+  width: 1025px;
+  height: 470px;
+  margin-top: 80px;
+  margin-left: 50px !important;
+  z-index: 2;
+
+}
+
+._calendar {
+  width: 100%;
+  height: 360px;
+  margin-bottom: auto;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  background: #2f3868;
+  padding-top: 60px;
+  padding-left: 10%;
+  padding-right: 10%;
+
+
+}
+
+.calendar_nav {
+  width: 80%;
+  height: 70px;
+  background: linear-gradient(180deg, rgba(47, 56, 104, 1) 31%, rgb(55, 68, 135) 100%);
+  margin-left: 10%;
+  padding-top: 1px;
+  padding-left: -30px !important;
+
+}
+
+.ab {
+  opacity: .7;
+  border-color: #7881B2 !important;
+}
+
+.mnth1 {
+  margin-left: 44px;
+  font-size: 10px;
+  color: white !important;
+  opacity: .7;
+  font-weight: 800;
+
+}
+
+#bcknav1 {
+  background-color: transparent !important;
+  box-shadow: none;
+  margin-left: 7.5%;
+  margin-bottom: 20px;
+  margin-top: 20px !important;
+  font-weight: 800 !important;
+  font-size: 14px !important;
+}
+
+#blckl {
+  background-color: black;
+  width: 100px;
+  height: 2px;
+}
+
+.purp {
+  width: 90px !important
+}
+
+#calprof #esv2 {
+  width: 100px !important;
+  height: 42px !important;
+  margin-top: 28px !important;
+
+}
+
+#calprof #esv {
+  height: 42px !important;
+}
+
+#calprof #esv3 {
+  width: 40px !important;
+  height: 42px !important;
+  margin-top: 28px !important;
+
+}
+
+._calendar .ab {
+  margin-right: -17px !important;
+}
+
+.cal_info {
+  width: 100%;
+  height: 500px;
+  padding: 15px;
+  padding-top: 100px;
+}
+
+.info_block1,
+.info_block2,
+.info_block3 {
+  width: 450px;
+  height: 120px;
+  background-color: #2f3868;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  z-index: -2;
+
+}
+
+.info_block2 {
+  margin-left: 210px;
+}
+
+.info_block3 {
+  margin-left: 330px;
+}
+
+.redline_img {
+  position: absolute;
+  margin-top: -50px;
+  width: 45px;
+  margin-left: 33.5px;
+  z-index: 0;
+}
+
+.info_cal_txt {
+  color: #C1C5D5;
+  font-weight: 800;
+  font-size: 12px;
+  width: 320px;
+  margin-left: 70px;
+  margin-top: -5px;
+}
+
+.calendar_guy {
+  position: absolute;
+  width: 700px;
+  margin-left: 419px;
+  margin-top: -85px;
+  z-index: -1;
+}
+
+.lines_red {
+  position: relative;
+  margin-left: -370px;
+  padding-right: -40px;
+}
+
+.cal1 #esv {
+  width: 120px !important;
+}

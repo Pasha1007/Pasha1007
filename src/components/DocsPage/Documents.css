@@ -1,0 +1,41 @@
+#right_side {
+    width: 30% !important;
+    z-index: -100;
+    position: absolute;
+    border-radius: 12px !important;
+    margin-left: 400px !important;
+
+
+}
+
+.left_side {
+    z-index: 100;
+    position: relative;
+    border-radius: 12px !important;
+}
+
+.dcs {
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.law_title {
+    font-size: 20px;
+    width: 500px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: rgb(80, 80, 80);
+}
+
+.bottom_dc {
+    background: linear-gradient(135deg, rgba(253, 208, 186, 1) 0%, rgba(254, 253, 195, 1) 100%);
+    margin-top: 0;
+    padding: 10px;
+    height: 190px;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+
+}

@@ -1,0 +1,132 @@
+button{
+    color: none !important;
+    height: 50px;
+    border: none !important;
+    
+  }
+  
+  .vl{
+    margin-right: 160px;
+    opacity: .7;
+    border-color: #7881B2 !important;;
+  }
+  #esv, #esv2,#esv3{
+    opacity: .8;
+    border-bottom-right-radius: 20px;
+    background: linear-gradient(90deg, rgba(254,69,38,1) 0%, rgba(255,37,116,1) 100%);
+    box-shadow: none !important;
+    position:static !important;
+
+  
+  }
+  .calendarmain{
+    z-index: -12 !important;
+
+  }
+  .calendarmain #esv{
+    margin-bottom: -42px;
+
+  }
+  .calendarmain #esv2{
+    margin-bottom: -42px;
+
+  }
+  .calendarmain #esv3{
+    margin-bottom: -42px;
+
+  }
+  #esv2{
+    background: linear-gradient(90deg, rgba(146,79,199,1) 0%, rgba(255,161,246,1) 100%);
+    width: 150px;
+
+  }
+  .calendarmain #esv2{
+    margin-top: -10px !important;
+
+  }
+
+  .calendarmain #esv{
+    margin-bottom: 20px !important;
+  }
+  .caltab2 #esv2{
+    background: linear-gradient(90deg, rgba(146,79,199,1) 0%, rgba(255,161,246,1) 100%);
+    width: 65px !important;
+   
+  }
+  #circle1,#circle2,#circle3{
+    width: 15px;
+    height: 15px;
+    border-radius: 50px;
+    background-color: #D7345F;
+    display:inline-block;
+    margin-left: 20px;
+  }
+  #circle2{
+    background-color: #945BBD;
+
+  }
+  #circle3{
+    background-color: #D5CF85;
+
+  }
+  .caltab2 #esv{
+    width: 175px !important;
+   
+  }
+  #esv3{
+    background: linear-gradient(90deg, rgba(255,240,51,1) 0%, rgba(255,250,181,1) 100%);
+    width: 60px !important; 
+  }
+  .calendarmain{
+    height: 550px;
+    padding-top: 70px;
+    background-color: #2F3868;
+    font-family: 'Montserrat', sans-serif !important;
+  }
+  .calendarmain h1{
+    font-family: 'Montserrat', sans-serif !important;
+    margin-bottom: 30px;
+  }
+  .mnth{
+    margin-left: 44px;
+    font-size: 13px;
+    color: white !important;
+    opacity: .7;
+    font-weight: 900;
+  
+  }
+  #mnths{
+    margin-left: 15.5%;
+  
+  }
+  #bcknav{
+    background-color:transparent !important;
+    box-shadow: none;
+    margin-left: 15.5%;
+    margin-bottom: 20px;
+  
+  
+  }
+  .select{
+    border: none;
+    background-color: transparent !important;
+    color: white;
+    opacity: .7;
+    font-weight: 900;
+    margin-right: 50px;
+    cursor: pointer;
+
+  }
+  .select_cal{
+    background: transparent !important;
+    box-shadow: none !important;
+    color: #B5B8CC !important;
+    font-family: 'Montserrat' !important;
+    text-transform: none !important;
+    font-weight: 900 !important;
+    
+  }
+.cal_lines{
+  position: relative;
+  margin-left: -148px;
+}
